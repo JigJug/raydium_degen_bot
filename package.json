@@ -1,0 +1,19 @@
+{
+  "name": "raydium_degen_bot",
+  "version": "1.0.0",
+  "description": "Degenerate bot swapping on raydium",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JigJug/raydium_degen_bot.git"
+  },
+  "author": "jigjug",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JigJug/raydium_degen_bot/issues"
+  },
+  "homepage": "https://github.com/JigJug/raydium_degen_bot#readme"
+}
